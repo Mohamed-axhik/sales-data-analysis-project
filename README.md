@@ -6,7 +6,6 @@ This project analyzes a retail sales dataset using Python and MySQL to generate 
 ## Tools Used
 - Python
 - Pandas
-- Matplotlib
 - MySQL
 - SQL
 
@@ -14,9 +13,8 @@ This project analyzes a retail sales dataset using Python and MySQL to generate 
 1. Data loading using Pandas
 2. Data cleaning and preprocessing
 3. Feature engineering
-4. Data visualization
-5. Exporting data to MySQL
-6. SQL business analysis queries
+4. Exporting data to MySQL
+5. SQL business analysis queries
 
 ## Business Questions Answered
 - Total revenue generated
